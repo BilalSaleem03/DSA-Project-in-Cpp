@@ -1,0 +1,42 @@
+Dehli,Channai,2106
+Dehli,Mumbai,1403
+Dehli,Kabul,1008
+Channai,Mumbai,1387
+Mumbai,Chittagong,2600
+Kabul,Mumbai,1757
+Kabul,Rawalpindi,650
+Kabul,Lahore,814
+Rawalpindi,Lahore,330
+Lahore,Galle,2850
+Kabul,Eden Park,9030
+Galle,Eden Park,10850
+Chittagong,Lords,5090
+Chittagong,Eden Park,480
+Galle,Melbourne,8500
+Eden Park,Lords,18300
+Eden Park,Village Green,1300
+Lords,Sydney,10998
+Sydney,Village Green,2226
+Sydney,Melbourne,713
+Village Green,Melbourne,2581
+Channai,Dehli,2106
+Mumbai,Dehli,1403
+Kabul,Dehli,1008
+Mumbai,Channai,1387
+Chittagong,Mumbai,2600
+Mumbai,Kabul,1757
+Rawalpindi,Kabul,650
+Lahore,Kabul,814
+Lahore,Rawalpindi,330
+Galle,Lahore,2850
+Eden Park,Kabul,9030
+Eden Park,Galle,10850
+Lords,Chittagong,5090
+Eden Park,Chittagong,480
+Melbourne,Galle,8500
+Lords,Eden Park,18300
+Village Green,Eden Park,1300
+Sydney,Lords,10998
+Village Green,Sydney,2226
+Melbourne,Sydney,713
+Melbourne,Village Green,2581
